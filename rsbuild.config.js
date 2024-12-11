@@ -21,7 +21,6 @@ module.exports = {
   },
   server: {
     port: 3001,
-    open: '/',
     headers: {
       'Access-Control-Allow-Origin': '*',
     },
